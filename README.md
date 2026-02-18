@@ -102,12 +102,6 @@ The final dashboard aims to provide:
 
 ---
 
-## Status
-
-Project currently in development.  
-All findings, thresholds, and statistical results will be generated after full exploratory data analysis and dashboard implementation.
-
-
 
 <img width="448" height="479" alt="Screenshot 2026-02-18 at 11 50 44 AM" src="https://github.com/user-attachments/assets/5d61032b-f6a2-4c7f-a045-61e81014b79c" />
 
